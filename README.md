@@ -1,6 +1,6 @@
 # E-commmerce Database
 
-![Alt text](https://drive.google.com/file/d/15vXU8mth9jgrWz8P7BMRlIpOMtP4SmNU/view?usp=sharing)
+![Database schema](data.png)
 
 
 ## Content
