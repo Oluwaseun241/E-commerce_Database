@@ -1,6 +1,6 @@
 # E-commmerce Database
 
-![Database schema](data.png)
+![Database diagram](https://drive.google.com/file/d/1at7_6m5FS6A-GSJoglCMTmZoAGmnn4Ug/view?usp=sharing)
 
 
 ## Content
